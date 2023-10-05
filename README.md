@@ -1,2 +1,3 @@
-# TestDataGenerator
-Flask application to generate random data. Implementation based on api defined by friend of mine.
+# Test Data API
+
+[Wiki](https://gitlab.com/room-406/test-data-api/-/wikis/home)
